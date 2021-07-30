@@ -15,7 +15,7 @@
 - 星期二
 - 星期三
 
-欢迎来到[**饥人谷**](https://jirengu.com)
+*欢迎*来**到**[**饥人谷**](https://jirengu.com)
 ![jirengu.com](https://jirengu.com/addons/theme/stv1/_static/app/index-new/imgs/weekly.png)
 
 1. hello
